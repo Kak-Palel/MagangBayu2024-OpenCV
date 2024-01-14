@@ -8,4 +8,4 @@ Golongan II  - Truk dengan 2 (dua) gandar\
 Golongan III - Truk dengan 3 (tiga) gandar\
 Golongan IV	 - Truk dengan 4 (empat) gandar\
 Golongan V	 - Truk dengan 5 (lima) gandar\
-Golongan VI	 - Kendaraan bermotor roda 2 (dua)\
+Golongan VI	 - Kendaraan bermotor roda 2 (dua)
